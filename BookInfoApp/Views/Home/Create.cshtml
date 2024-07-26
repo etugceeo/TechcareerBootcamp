@@ -1,0 +1,32 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<form asp-controller="Home" asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input type="text" asp-for="Name" id="Name" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Price" class="form-label">Price</label>
+        <input type="text" asp-for="Price"  class="form-control">
+    </div>
+    <div class="mb-3">
+        <label for="Image" class="form-label">Image</label>
+        <input type="text" name="Image" id="Image" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label for="CategoryId" class="form-label">Category</label>
+        <select name="CategoryId" id="CategoryId" class="form-select">
+            <option value="0">Hepsi</option>
+            @foreach(var item in ViewBag.Categories){
+                <option value="@item.CategoryId">@item.Name</option>
+            }
+        </select>
+    </div>
+    <div class="mb-3 form-check">
+        <input type="checkbox" name="IsActive" id="IsActive" class="form-check-input">
+        <label for="IsActive" class="form-check-label">IsActive</label>
+    </div>
+    <button type="submit" class="btn btn-primary">Kaydet</button>            
+</form>
