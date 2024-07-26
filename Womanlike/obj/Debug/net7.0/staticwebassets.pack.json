@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\Womanlike\\wwwroot\\1.png",
+      "PackagePath": "staticwebassets\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\Womanlike\\wwwroot\\2.jpg",
+      "PackagePath": "staticwebassets\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\Womanlike\\wwwroot\\3.png",
+      "PackagePath": "staticwebassets\\3.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Womanlike.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Womanlike.props",
+      "PackagePath": "build\\Womanlike.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Womanlike.props",
+      "PackagePath": "buildMultiTargeting\\Womanlike.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Womanlike.props",
+      "PackagePath": "buildTransitive\\Womanlike.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

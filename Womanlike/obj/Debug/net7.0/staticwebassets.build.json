@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "PgVTx3hOD24g26p+Wvi0rAGAOaVbrpSlXizgrU7JAA4=",
+  "Source": "Womanlike",
+  "BasePath": "_content/Womanlike",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Womanlike\\wwwroot",
+      "Source": "Womanlike",
+      "ContentRoot": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\Womanlike\\wwwroot\\",
+      "BasePath": "_content/Womanlike",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\Womanlike\\wwwroot\\1.png",
+      "SourceId": "Womanlike",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\Womanlike\\wwwroot\\",
+      "BasePath": "_content/Womanlike",
+      "RelativePath": "1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\1.png"
+    },
+    {
+      "Identity": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\Womanlike\\wwwroot\\2.jpg",
+      "SourceId": "Womanlike",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\Womanlike\\wwwroot\\",
+      "BasePath": "_content/Womanlike",
+      "RelativePath": "2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\Womanlike\\wwwroot\\3.png",
+      "SourceId": "Womanlike",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\Womanlike\\wwwroot\\",
+      "BasePath": "_content/Womanlike",
+      "RelativePath": "3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\3.png"
+    }
+  ]
+}
