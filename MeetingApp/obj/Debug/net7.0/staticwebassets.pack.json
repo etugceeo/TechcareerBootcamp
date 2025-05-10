@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\MeetingApp\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
       "Id": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\MeetingApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
     },
@@ -543,6 +547,10 @@
     {
       "Id": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\MeetingApp\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props",

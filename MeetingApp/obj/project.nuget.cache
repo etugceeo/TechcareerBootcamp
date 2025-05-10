@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HSMEVnlIRXxXTsB1UucsFleauxNcI4p1LJq13zZN1JCy17zSIjGqS5KSkVxMjzM4/UgCaic9UeFcbi2fdMM6Sw==",
+  "dgSpecHash": "l5Pe6xPuxNU=",
   "success": true,
   "projectFilePath": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\MeetingApp\\MeetingApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ELIFT\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\ELIFT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\ELIFT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\ELIFT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,4 +1,3 @@
-C:\Users\ELIFT\Desktop\github\TechcareerBootcamp\MeetingApp\obj\Debug\net7.0\MeetingApp.csproj.AssemblyReference.cache
 C:\Users\ELIFT\Desktop\github\TechcareerBootcamp\MeetingApp\obj\Debug\net7.0\MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ELIFT\Desktop\github\TechcareerBootcamp\MeetingApp\obj\Debug\net7.0\MeetingApp.AssemblyInfoInputs.cache
 C:\Users\ELIFT\Desktop\github\TechcareerBootcamp\MeetingApp\obj\Debug\net7.0\MeetingApp.AssemblyInfo.cs
@@ -28,3 +27,7 @@ C:\Users\ELIFT\Desktop\github\TechcareerBootcamp\MeetingApp\obj\Debug\net7.0\Mee
 C:\Users\ELIFT\Desktop\github\TechcareerBootcamp\MeetingApp\obj\Debug\net7.0\ref\MeetingApp.dll
 C:\Users\ELIFT\Desktop\github\TechcareerBootcamp\MeetingApp\bin\Debug\net7.0\libman.json
 C:\Users\ELIFT\Desktop\github\TechcareerBootcamp\MeetingApp\bin\Debug\net7.0\MeetingApp.staticwebassets.runtime.json
+C:\Users\ELIFT\Desktop\github\TechcareerBootcamp\MeetingApp\obj\Debug\net7.0\MeetingApp.sourcelink.json
+C:\Users\ELIFT\Desktop\github\TechcareerBootcamp\MeetingApp\bin\Debug\net7.0\MeetingApp.staticwebassets.endpoints.json
+C:\Users\ELIFT\Desktop\github\TechcareerBootcamp\MeetingApp\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\ELIFT\Desktop\github\TechcareerBootcamp\MeetingApp\obj\Debug\net7.0\staticwebassets\msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

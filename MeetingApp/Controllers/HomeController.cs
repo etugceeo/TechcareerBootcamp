@@ -22,14 +22,15 @@ namespace MeetingApp.Controllers
             ViewData key value şeklinde olan
             view da @ViewData["Selamlama"] şklinde kullan
             */
-            ViewData["Selamlama"] = saat > 12 ? "İyi Günler":"Günaydın";
-            ViewData["UserName"] = "Elif";
+            int  UserCount = Repository.Users.Where(i => i.WillAttend == true).Count();
+            ViewData["Selamlama"] = saat > 12 ? "İyi Günler" : "Günaydın";
+            //ViewData["UserName"] = "Elif";
             var meetingInfo = new MeetingInfo()
             {
                 Id = 1,
                 Location = " İstanbul , Abc Kongre Merkezi",
                 Date = new DateTime(2024, 12, 20, 20, 0, 0),
-                NumberOfPeople = 100
+                NumberOfPeople = UserCount
             };
             return View(meetingInfo);
         }
