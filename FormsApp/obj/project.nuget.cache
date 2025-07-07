@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HZv6IIFcNqI=",
+  "dgSpecHash": "OXk/IcI2BJU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\Basics\\Basics.csproj",
+  "projectFilePath": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\FormsApp\\FormsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ELIFT\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\ELIFT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
