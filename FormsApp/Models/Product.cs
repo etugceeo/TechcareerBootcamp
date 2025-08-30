@@ -9,13 +9,13 @@ namespace FormsApp.Models
         [Required(ErrorMessage ="Ürün adı gerekli")]
         [StringLength(100)]
         [Display(Name = "Adı")]
-        public string Name { get; set; } = string.Empty;//this property nullable same ?
+        public string Name { get; set; } = string.Empty;
         [Required]
         [Range(0, 100000)]
         [Display(Name = "Fiyat")]
         public decimal? Price { get; set; }
         [Display(Name = "Resim")]
-        public string Image { get; set; } = string.Empty;//if we get data of Image from form, data of ımage must be full
+        public string? Image { get; set; } = string.Empty;
         public bool IsActive { get; set; }
         [Display(Name = "Category")]
         //[BindNever] this attribute is not for binding data of CategoryId

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NxFyN2+nWrYqW6gdX0A7pDiHJXBMb6vbjimc9CifEu0=",
+  "Hash": "s82dkktmiMf4AX+Rd/KgsDRZetJJAHcbWUnUCkejH9Y=",
   "Source": "FormsApp",
   "BasePath": "_content/FormsApp",
   "Mode": "Default",
@@ -227,6 +227,48 @@
       "OriginalItemSpec": "wwwroot\\img\\5.jpg"
     },
     {
+      "Identity": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\FormsApp\\wwwroot\\img\\56f31496-63e2-478c-a78e-3415167b33ca.jpg",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/56f31496-63e2-478c-a78e-3415167b33ca#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w5ibij9bb4",
+      "Integrity": "TAGx2OoOrKKH+uKlBitVO5b1Pb6mF5tf0a7RnsgVXZ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\56f31496-63e2-478c-a78e-3415167b33ca.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\FormsApp\\wwwroot\\img\\5d43ab78-ebfa-4dbb-812e-bd854658823f.jpg",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/5d43ab78-ebfa-4dbb-812e-bd854658823f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zvfx7d5jpc",
+      "Integrity": "UWb3ls/FZbT5U+4UJgG533nzE8qJk8YuboSXnFeYrBE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\5d43ab78-ebfa-4dbb-812e-bd854658823f.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\FormsApp\\wwwroot\\img\\6.jpg",
       "SourceId": "FormsApp",
       "SourceType": "Discovered",
@@ -288,6 +330,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\689b40b9-ba20-438a-b2ed-f614a55353fe.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\FormsApp\\wwwroot\\img\\8e0e33cf-4f06-4d80-80bc-ae63930e0863.jpg",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/8e0e33cf-4f06-4d80-80bc-ae63930e0863#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "43xjtyl45g",
+      "Integrity": "QIPZ5PeSB+Qv92IGotNIz71a8NKceUR794PVaJUESU8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\8e0e33cf-4f06-4d80-80bc-ae63930e0863.jpg"
     },
     {
       "Identity": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\FormsApp\\wwwroot\\img\\ba9f7c7e-06bf-4294-ac78-6a94944e6459.jpg",
@@ -2351,6 +2414,170 @@
       ]
     },
     {
+      "Route": "img/56f31496-63e2-478c-a78e-3415167b33ca.jpg",
+      "AssetFile": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\FormsApp\\wwwroot\\img\\56f31496-63e2-478c-a78e-3415167b33ca.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TAGx2OoOrKKH+uKlBitVO5b1Pb6mF5tf0a7RnsgVXZ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 13:15:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TAGx2OoOrKKH+uKlBitVO5b1Pb6mF5tf0a7RnsgVXZ4="
+        }
+      ]
+    },
+    {
+      "Route": "img/56f31496-63e2-478c-a78e-3415167b33ca.w5ibij9bb4.jpg",
+      "AssetFile": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\FormsApp\\wwwroot\\img\\56f31496-63e2-478c-a78e-3415167b33ca.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TAGx2OoOrKKH+uKlBitVO5b1Pb6mF5tf0a7RnsgVXZ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 13:15:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w5ibij9bb4"
+        },
+        {
+          "Name": "label",
+          "Value": "img/56f31496-63e2-478c-a78e-3415167b33ca.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TAGx2OoOrKKH+uKlBitVO5b1Pb6mF5tf0a7RnsgVXZ4="
+        }
+      ]
+    },
+    {
+      "Route": "img/5d43ab78-ebfa-4dbb-812e-bd854658823f.jpg",
+      "AssetFile": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\FormsApp\\wwwroot\\img\\5d43ab78-ebfa-4dbb-812e-bd854658823f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UWb3ls/FZbT5U+4UJgG533nzE8qJk8YuboSXnFeYrBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 02:03:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UWb3ls/FZbT5U+4UJgG533nzE8qJk8YuboSXnFeYrBE="
+        }
+      ]
+    },
+    {
+      "Route": "img/5d43ab78-ebfa-4dbb-812e-bd854658823f.zvfx7d5jpc.jpg",
+      "AssetFile": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\FormsApp\\wwwroot\\img\\5d43ab78-ebfa-4dbb-812e-bd854658823f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UWb3ls/FZbT5U+4UJgG533nzE8qJk8YuboSXnFeYrBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 02:03:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zvfx7d5jpc"
+        },
+        {
+          "Name": "label",
+          "Value": "img/5d43ab78-ebfa-4dbb-812e-bd854658823f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UWb3ls/FZbT5U+4UJgG533nzE8qJk8YuboSXnFeYrBE="
+        }
+      ]
+    },
+    {
       "Route": "img/6.jpg",
       "AssetFile": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\FormsApp\\wwwroot\\img\\6.jpg",
       "Selectors": [],
@@ -2593,6 +2820,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-TAGx2OoOrKKH+uKlBitVO5b1Pb6mF5tf0a7RnsgVXZ4="
+        }
+      ]
+    },
+    {
+      "Route": "img/8e0e33cf-4f06-4d80-80bc-ae63930e0863.43xjtyl45g.jpg",
+      "AssetFile": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\FormsApp\\wwwroot\\img\\8e0e33cf-4f06-4d80-80bc-ae63930e0863.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QIPZ5PeSB+Qv92IGotNIz71a8NKceUR794PVaJUESU8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 13:15:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "43xjtyl45g"
+        },
+        {
+          "Name": "label",
+          "Value": "img/8e0e33cf-4f06-4d80-80bc-ae63930e0863.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QIPZ5PeSB+Qv92IGotNIz71a8NKceUR794PVaJUESU8="
+        }
+      ]
+    },
+    {
+      "Route": "img/8e0e33cf-4f06-4d80-80bc-ae63930e0863.jpg",
+      "AssetFile": "C:\\Users\\ELIFT\\Desktop\\github\\TechcareerBootcamp\\FormsApp\\wwwroot\\img\\8e0e33cf-4f06-4d80-80bc-ae63930e0863.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QIPZ5PeSB+Qv92IGotNIz71a8NKceUR794PVaJUESU8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 13:15:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QIPZ5PeSB+Qv92IGotNIz71a8NKceUR794PVaJUESU8="
         }
       ]
     },
